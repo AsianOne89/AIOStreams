@@ -30,7 +30,7 @@ Combines streams from other addons into one and provides much greater customisat
 - Sort all results by quality, resolution, size, cached, visual tags, audio tags, encodes, seeders, service, language
 - Prioritise or exclude specific languages
 - Specify a minimum and/or maximum size
-- Limiting to a specific number of results per resolution
+- Limiting to a specific number of results pedr resolution
 - Proxy your streams with MediaFlow
 
 You simply configure your options, add any API keys for any services you use, then enable whichever addons you want, and install.
